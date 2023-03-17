@@ -4,14 +4,14 @@
   "license": "",
   "id": "com.Joseph.sap.sac.chatgpt",
   "version": "1.0.0",
-  "name": "chatGPT SAC",
+  "name": "chatGPT SAC Joe",
   "newInstancePrefix": "chatGPTInSAC",
   "description": "A custom widget to integrate chatGPT3 in SAC Analytic application",
   "webcomponents": [
     {
       "kind": "main",
       "tag": "custom-widget",
-      "url": "https://github.com/JOSEPHREDDY07/integrating-chatGPT3-in-SAC/blob/main/main.js"  
+      "url": "https://github.com/JOSEPHREDDY07/integrating-chatGPT3-in-SAC/blob/main/main.js",  
       "integrity": "",
       "ignoreIntegrity": true
     }
